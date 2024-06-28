@@ -33,9 +33,8 @@ st.markdown("""
         transition-duration: 0.4s;
     }
     .stButton button:hover {
-        background-color: white;
-        color: black;
-        border: 2px solid #4CAF50;
+        background-color: #45a049;
+        color: white;
     }
     .stButton button:focus {
         background-color: #4CAF50;
